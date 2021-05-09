@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @TamburriSam
-- 👀  I’m interested in Responsive Web Design, UI Development and UX principles. 
-- 🌱  I’m currently learning React!
+- 👀  I’m interested in dynamic web applications. 
+- 🌱  I’m currently learning React and Node!
 - 📫  Reach me @ TamburriSam@gmail.com
 
